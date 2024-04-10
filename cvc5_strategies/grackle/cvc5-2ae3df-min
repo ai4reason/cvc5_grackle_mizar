@@ -1,0 +1,8 @@
+--cbqi-vo-exp
+--cond-var-split-quant=agg
+--conjecture-gen
+--enum-inst-sum
+--full-saturate-quant
+--inst-when=full-delay
+--quant-ind
+--relational-triggers

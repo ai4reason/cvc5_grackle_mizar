@@ -1,0 +1,1 @@
+--cbqi-vo-exp --check-proofs --decision=justification --full-saturate-quant --ieval=off --miniscope-quant=off --model-cores=simple --multi-trigger-priority --prenex-quant-user --produce-learned-literals --produce-unsat-assumptions --relevant-triggers --no-static-learning --user-pat=interleave

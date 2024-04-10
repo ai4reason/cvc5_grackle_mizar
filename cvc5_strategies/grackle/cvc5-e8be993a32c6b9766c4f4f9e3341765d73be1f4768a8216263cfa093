@@ -1,0 +1,1 @@
+--cegis-sample=trust --check-synth-sol --decision=justification --full-saturate-quant --ieval=use-learn --inst-when=full --interpolants-mode=all --learned-rewrite --miniscope-quant=conj --multi-trigger-priority --no-produce-assertions --quant-dsplit=agg --simplification=none --no-static-learning --trigger-sel=min-s-all

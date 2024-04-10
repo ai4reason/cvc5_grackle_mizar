@@ -1,0 +1,1 @@
+--arith-no-partial-fun --cbqi-all-conflict --cbqi-vo-exp --cegis-sample=trust --decision=justification --full-saturate-quant --inst-when=full-delay --interpolants-mode=assumptions --macros-quant --miniscope-quant=conj --multi-trigger-priority --quant-dsplit=none --no-term-db-cd --uf-ss=none --no-uf-ss-fair --user-pat=strict

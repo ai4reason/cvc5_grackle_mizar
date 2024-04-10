@@ -1,0 +1,1 @@
+--decision=justification --full-saturate-quant --inst-when=last-call --interpolants-mode=conjecture --multi-trigger-priority --multi-trigger-when-single --prenex-quant-user --term-db-mode=relevant --user-pat=ignore

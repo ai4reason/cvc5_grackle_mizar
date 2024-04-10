@@ -1,0 +1,1 @@
+--cbqi-all-conflict --cegis-sample=trust --decision=justification --full-saturate-quant --inst-when=last-call --interpolants-mode=conjecture --macros-quant --miniscope-quant=conj --multi-trigger-priority --quant-dsplit=none --trigger-sel=min-s-all --uf-ss=none --no-uf-ss-fair --user-pat=ignore

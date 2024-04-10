@@ -1,0 +1,1 @@
+--cbqi-vo-exp --full-saturate-quant --no-ho-elim-store-ax --iand-mode=bitwise --sygus-filter-sol=weak

@@ -1,0 +1,1 @@
+--check-abducts --decision=justification --full-saturate-quant --multi-trigger-priority --multi-trigger-when-single --no-static-learning --uf-ss=none --user-pat=interleave

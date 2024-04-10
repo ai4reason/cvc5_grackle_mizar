@@ -1,0 +1,1 @@
+--bv-to-int-use-pow2 --decision=justification --full-saturate-quant --no-inst-no-entail --interpolants-mode=conjecture --jh-skolem-rlv=always --multi-trigger-priority --multi-trigger-when-single --prenex-quant-user --quant-ind --simplification=none --term-db-mode=relevant --no-uf-ss-fair --user-pool=ignore

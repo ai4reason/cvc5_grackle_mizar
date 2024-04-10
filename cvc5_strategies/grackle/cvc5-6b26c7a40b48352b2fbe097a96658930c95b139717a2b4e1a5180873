@@ -1,0 +1,1 @@
+--decision=justification --full-saturate-quant --interpolants-mode=conjecture --no-quant-alpha-equiv --quant-dsplit=none --relevant-triggers --trigger-sel=min-s-all --user-pat=resort

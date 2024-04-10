@@ -1,0 +1,1 @@
+--cbqi-vo-exp --check-proofs --decision=justification --full-saturate-quant --literal-matching=none --no-static-learning --trigger-sel=min-s-all --unsat-cores-mode=assumptions --user-pat=resort

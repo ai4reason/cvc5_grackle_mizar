@@ -1,0 +1,1 @@
+--cegqi --decision=justification --full-saturate-quant --inst-when=full --interpolants-mode=conjecture --model-cores=non-implied --multi-trigger-priority --multi-trigger-when-single --prenex-quant-user --no-produce-assertions --quant-dsplit=none --term-db-mode=relevant

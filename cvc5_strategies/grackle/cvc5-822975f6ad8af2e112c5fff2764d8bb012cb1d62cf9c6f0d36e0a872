@@ -1,0 +1,1 @@
+--decision=justification --no-inst-no-entail --inst-when=full --interpolants-mode=conjecture --model-cores=simple --no-quant-alpha-equiv --relevant-triggers --trigger-sel=min-s-all

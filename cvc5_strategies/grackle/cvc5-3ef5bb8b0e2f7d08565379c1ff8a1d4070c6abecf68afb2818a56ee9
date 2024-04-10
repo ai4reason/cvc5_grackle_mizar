@@ -1,0 +1,1 @@
+--check-synth-sol --decision=justification --full-saturate-quant --no-inst-no-entail --inst-when=full --interpolants-mode=all --ite-lift-quant=none --relevant-triggers --no-uf-ss-fair --user-pat=interleave

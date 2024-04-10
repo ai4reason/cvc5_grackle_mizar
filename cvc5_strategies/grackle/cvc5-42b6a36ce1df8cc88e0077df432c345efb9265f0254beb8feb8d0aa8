@@ -1,0 +1,1 @@
+--check-interpolants --decision=justification --full-saturate-quant --no-inst-no-entail --interpolants-mode=all --learned-rewrite --model-cores=non-implied --produce-assignments --relevant-triggers --no-uf-ss-fair --user-pat=strict

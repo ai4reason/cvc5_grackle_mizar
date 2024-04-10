@@ -1,0 +1,1 @@
+--cegis-sample=use --decision=justification --full-saturate-quant --no-inst-no-entail --inst-when=full --miniscope-quant=conj --model-cores=non-implied --multi-trigger-priority --produce-assignments --quant-dsplit=agg --simplification=none --trigger-sel=min-s-all --no-uf-lazy-ll --no-var-ineq-elim-quant

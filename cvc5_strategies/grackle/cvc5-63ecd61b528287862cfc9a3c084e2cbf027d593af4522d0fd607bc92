@@ -1,0 +1,1 @@
+--decision=justification --full-saturate-quant --interpolants-mode=shared --learned-rewrite --no-quant-alpha-equiv --simplification=none --no-uf-ss-fair --user-pat=use

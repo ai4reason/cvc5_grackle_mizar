@@ -1,0 +1,1 @@
+--decision=justification --full-saturate-quant --miniscope-quant=off --multi-trigger-priority --multi-trigger-when-single --pre-skolem-quant=on

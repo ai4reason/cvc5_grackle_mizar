@@ -1,0 +1,1 @@
+--decision=justification --enum-inst --full-saturate-quant --inst-when=full-delay-last-call --interpolants-mode=assumptions --ite-lift-quant=none --multi-trigger-priority --multi-trigger-when-single --quant-dsplit=agg --trigger-sel=min-s-all --uf-ss=none --user-pat=use

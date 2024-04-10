@@ -1,0 +1,1 @@
+--check-synth-sol --decision=justification --full-saturate-quant --macros-quant --macros-quant-mode=all --no-print-inst-full --no-sygus-grammar-use-disj --sygus-inst-mode=interleave

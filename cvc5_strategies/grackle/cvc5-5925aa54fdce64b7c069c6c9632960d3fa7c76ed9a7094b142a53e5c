@@ -1,0 +1,1 @@
+--check-abducts --check-synth-sol --decision=justification --ho-elim --no-inst-no-entail --inst-when=full --interpolants-mode=conjecture --ite-lift-quant=none --miniscope-quant=off --multi-trigger-priority --multi-trigger-when-single --pre-skolem-quant=on --no-static-learning --user-pat=use

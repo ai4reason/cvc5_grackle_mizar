@@ -1,0 +1,1 @@
+--check-synth-sol --decision=justification --full-saturate-quant --interpolants-mode=conjecture --model-cores=non-implied --multi-trigger-priority --multi-trigger-when-single --prenex-quant-user --term-db-mode=relevant

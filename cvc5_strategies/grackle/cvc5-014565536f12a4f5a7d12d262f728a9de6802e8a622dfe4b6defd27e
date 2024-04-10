@@ -1,0 +1,1 @@
+--cegis-sample=use --check-synth-sol --decision=justification --inst-when=full --interpolants-mode=shared --learned-rewrite --macros-quant --miniscope-quant=conj --multi-trigger-priority --no-produce-assertions --produce-learned-literals --quant-dsplit=agg --simplification=none --no-static-learning --trigger-sel=min-s-all --user-pat=ignore --no-var-ineq-elim-quant

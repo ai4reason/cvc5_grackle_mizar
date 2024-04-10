@@ -1,0 +1,1 @@
+--cegis-sample=use --decision=justification --ieval=use-learn --no-inst-no-entail --inst-when=full --interpolants-mode=conjecture --learned-rewrite --miniscope-quant=conj --model-cores=simple --multi-trigger-priority --produce-assignments --quant-dsplit=none --simplification=none --trigger-sel=min-s-all --no-uf-lazy-ll --no-uf-ss-fair --no-var-ineq-elim-quant

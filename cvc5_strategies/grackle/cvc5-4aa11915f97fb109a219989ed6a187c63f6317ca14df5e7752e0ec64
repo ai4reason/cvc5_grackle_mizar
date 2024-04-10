@@ -1,0 +1,1 @@
+--check-synth-sol --decision=justification --full-saturate-quant --ieval=use-learn --macros-quant --macros-quant-mode=all --repeat-simp --no-sygus-grammar-use-disj

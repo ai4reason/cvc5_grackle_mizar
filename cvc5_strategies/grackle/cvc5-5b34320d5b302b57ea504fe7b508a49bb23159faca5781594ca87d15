@@ -1,0 +1,1 @@
+--cegis-sample=use --check-abducts --decision=justification --full-saturate-quant --no-inst-no-entail --inst-when=full --interpolants-mode=shared --miniscope-quant=conj --multi-trigger-priority --produce-assignments --quant-dsplit=agg --simplification=none --trigger-sel=min-s-all --no-uf-lazy-ll --uf-ss=none --no-var-ineq-elim-quant

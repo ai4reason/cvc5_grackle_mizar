@@ -1,0 +1,1 @@
+--cegis-sample=use --check-interpolants --decision=justification --full-saturate-quant --interpolants-mode=shared --learned-rewrite --no-quant-alpha-equiv --quant-dsplit=agg --simplification=none --no-uf-lazy-ll --no-uf-ss-fair --user-pat=use

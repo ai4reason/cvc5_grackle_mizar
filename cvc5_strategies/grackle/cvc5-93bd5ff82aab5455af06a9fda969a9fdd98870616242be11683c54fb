@@ -1,0 +1,1 @@
+--decision=justification --difficulty-mode=lemma-literal --dt-stc-ind --full-saturate-quant --inst-when=full-delay-last-call --macros-quant --macros-quant-mode=all --quant-dsplit=agg --simp-ite-compress --no-static-learning --sygus-eval-unfold=multi --sygus-filter-sol=strong --sygus-grammar-cons=any-const --user-pat=ignore

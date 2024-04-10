@@ -1,0 +1,1 @@
+--decision=justification --enum-inst --full-saturate-quant --ieval=use-learn --inst-when=full --interpolants-mode=assumptions --ite-lift-quant=none --multi-trigger-priority --multi-trigger-when-single --trigger-sel=min-s-all --uf-ss=no-minimal --user-pat=use

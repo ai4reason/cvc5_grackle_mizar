@@ -1,0 +1,1 @@
+--cegis-sample=use --decision=justification --no-inst-no-entail --inst-when=full --interpolants-mode=assumptions --ite-lift-quant=all --mbqi-one-inst-per-round --model-cores=simple --no-quant-alpha-equiv --quant-dsplit=none --relevant-triggers --trigger-sel=min-s-all --user-pat=strict --no-var-ineq-elim-quant

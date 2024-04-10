@@ -1,0 +1,1 @@
+--bv-to-int-use-pow2 --cbqi-vo-exp --decision=justification --difficulty-mode=model-check --fmf-bound-blast --full-saturate-quant --no-ho-merge-term-db --inst-when=full --macros-quant-mode=all --mbqi --mbqi-interleave --no-produce-assertions --quant-rep-mode=ee --repeat-simp --simp-ite-compress --sygus-eval-unfold=multi --sygus-filter-sol=weak --sygus-grammar-cons=any-const

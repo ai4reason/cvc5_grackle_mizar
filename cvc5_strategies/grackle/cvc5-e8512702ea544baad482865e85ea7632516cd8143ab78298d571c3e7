@@ -1,0 +1,1 @@
+--cegis-sample=trust --check-interpolants --decision=justification --no-inst-no-entail --inst-when=full --interpolants-mode=all --learned-rewrite --model-cores=simple --produce-assignments --quant-dsplit=none --relevant-triggers --user-pat=strict

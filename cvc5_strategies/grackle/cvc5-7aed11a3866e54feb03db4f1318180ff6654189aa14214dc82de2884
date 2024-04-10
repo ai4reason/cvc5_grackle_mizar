@@ -1,0 +1,1 @@
+--cbqi-vo-exp --check-proofs --decision=justification --enum-inst --full-saturate-quant --ieval=off --interpolants-mode=shared --miniscope-quant=off --model-cores=simple --multi-trigger-priority --prenex-quant-user --produce-unsat-assumptions --quant-dsplit=none --relevant-triggers --no-static-learning --user-pat=ignore

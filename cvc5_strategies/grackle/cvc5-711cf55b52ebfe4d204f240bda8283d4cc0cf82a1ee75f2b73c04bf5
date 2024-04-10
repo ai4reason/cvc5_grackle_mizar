@@ -1,0 +1,1 @@
+--cbqi-vo-exp --check-proofs --decision=justification --full-saturate-quant --iand-mode=sum --interpolants-mode=conjecture --literal-matching=none --produce-unsat-assumptions --no-static-learning --no-symmetry-breaker --trigger-sel=min-s-all --unsat-cores-mode=sat-proof --user-pat=resort

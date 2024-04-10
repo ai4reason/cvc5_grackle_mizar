@@ -1,0 +1,17 @@
+About
+=====
+
+In the directory `grackle`, there are `cvc5` strategies invented by Grackle
+which are mentioned in CICM'24 paper `Solving Hard Mizar Problems with
+Instantiation and Strategy Invention`.  The directory `casc_mode` contains the
+baseline cvc5 strategies from the CASC competition script.
+
+Minimization
+------------
+
+Please note that many of them (those with long hash names) are not minimized
+and contain **many** unrelated options.  Some of them (hash codes of length 6)
+were minimized by an experimental evaluation (script that removes arguments one
+by one and compares performance). Still, some irrelevant options remain.
+Further manual minimization was used for the strategies in the paper.
+

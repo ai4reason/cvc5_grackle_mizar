@@ -1,0 +1,1 @@
+--decision=justification --enum-inst --full-saturate-quant --inst-when=full --interpolants-mode=conjecture --ite-lift-quant=all --miniscope-quant=off --model-cores=non-implied --multi-trigger-priority --multi-trigger-when-single --pre-skolem-quant=on --quant-dsplit=none --no-var-ineq-elim-quant

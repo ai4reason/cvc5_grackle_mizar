@@ -1,0 +1,1 @@
+--cegqi-all --no-cegqi-bv --cegqi-bv-ineq=keep --no-cegqi-innermost --cegqi-nested-qe --decision=justification --full-saturate-quant --no-inst-no-entail --multi-trigger-priority --relevant-triggers

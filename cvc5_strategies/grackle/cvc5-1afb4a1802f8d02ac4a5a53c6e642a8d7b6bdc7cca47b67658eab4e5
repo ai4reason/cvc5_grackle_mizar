@@ -1,0 +1,1 @@
+--decision=justification --enum-inst --finite-model-find --full-saturate-quant --no-inst-no-entail --inst-when=full-delay --interpolants-mode=shared --ite-lift-quant=none --mbqi-one-inst-per-round --multi-trigger-priority --multi-trigger-when-single --prenex-quant-user --trigger-sel=min-s-all --uf-ss=none --user-pat=ignore

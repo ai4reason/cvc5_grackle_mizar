@@ -1,0 +1,1 @@
+--cbqi-all-conflict --difficulty-mode=model-check --finite-model-find --ieval=off --inst-when=full --ite-lift-quant=none --macros-quant-mode=all --on-repeat-ite-simp --produce-learned-literals --quant-dsplit=agg --register-quant-body-terms --no-static-learning --sygus-grammar-cons=any-term-concise --uf-ss=no-minimal --user-pool=ignore

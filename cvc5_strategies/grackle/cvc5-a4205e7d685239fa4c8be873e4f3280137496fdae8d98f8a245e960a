@@ -1,0 +1,1 @@
+--cegis-sample=use --decision=justification --full-saturate-quant --iand-mode=bitwise --interpolants-mode=conjecture --multi-trigger-priority --multi-trigger-when-single --prenex-quant-user --term-db-mode=relevant

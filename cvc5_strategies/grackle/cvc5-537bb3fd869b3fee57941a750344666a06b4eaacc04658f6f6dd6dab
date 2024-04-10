@@ -1,0 +1,1 @@
+--cegis-sample=trust --decision=justification --full-saturate-quant --no-inst-no-entail --interpolants-mode=all --learned-rewrite --prenex-quant-user --produce-assignments --quant-dsplit=agg --relevant-triggers --uf-ss=no-minimal --no-uf-ss-fair

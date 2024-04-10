@@ -1,0 +1,1 @@
+--decision=justification --full-saturate-quant --inst-when=full --interpolants-mode=assumptions --ite-lift-quant=all --no-quant-alpha-equiv --quant-dsplit=none --relevant-triggers --trigger-sel=min-s-all

@@ -1,0 +1,1 @@
+--decision=justification --full-saturate-quant --inst-when=full --interpolants-mode=conjecture --no-quant-alpha-equiv --relevant-triggers --trigger-sel=min-s-all

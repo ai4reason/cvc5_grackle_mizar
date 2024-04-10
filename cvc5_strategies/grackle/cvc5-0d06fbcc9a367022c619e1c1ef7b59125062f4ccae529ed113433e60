@@ -1,0 +1,1 @@
+--decision=justification --full-saturate-quant --multi-trigger-priority --multi-trigger-when-single --no-produce-assertions --uf-ss=none --user-pat=interleave

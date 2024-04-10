@@ -1,0 +1,1 @@
+--bv-to-int-use-pow2 --decision=justification --full-saturate-quant --multi-trigger-priority --multi-trigger-when-single --sygus-inst-mode=priority-eval --no-uf-lazy-ll --user-pat=interleave

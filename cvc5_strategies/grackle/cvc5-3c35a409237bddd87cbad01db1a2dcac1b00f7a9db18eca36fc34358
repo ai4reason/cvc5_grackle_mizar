@@ -1,0 +1,1 @@
+--check-interpolants --decision=justification --no-inst-no-entail --interpolants-mode=conjecture --ite-lift-quant=none --mbqi-one-inst-per-round --model-cores=non-implied --no-quant-alpha-equiv --relevant-triggers --trigger-sel=min-s-all --user-pat=resort

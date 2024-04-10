@@ -1,0 +1,1 @@
+--check-interpolants --check-synth-sol --decision=justification --full-saturate-quant --inst-when=full --interpolants-mode=assumptions --miniscope-quant=conj --multi-trigger-priority --produce-assignments --no-quant-alpha-equiv --quant-dsplit=none --simplification=none --no-static-learning --trigger-sel=min-s-all --no-var-ineq-elim-quant

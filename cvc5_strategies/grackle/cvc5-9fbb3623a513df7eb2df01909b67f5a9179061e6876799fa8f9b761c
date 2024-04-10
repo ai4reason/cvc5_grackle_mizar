@@ -1,0 +1,1 @@
+--check-interpolants --check-synth-sol --decision=justification --enum-inst --full-saturate-quant --ho-elim --no-inst-no-entail --inst-when=full --ite-lift-quant=none --model-cores=simple --no-produce-assertions --quant-dsplit=none --relevant-triggers --user-pat=use --no-var-ineq-elim-quant

@@ -1,0 +1,1 @@
+--check-abducts --decision=justification --full-saturate-quant --interpolants-mode=shared --learned-rewrite --model-cores=non-implied --no-quant-alpha-equiv --quant-dsplit=agg --simplification=none --no-uf-ss-fair --user-pat=use

@@ -1,0 +1,1 @@
+--bv-to-int-use-pow2 --cegis-sample=use --decision=justification --full-saturate-quant --iand-mode=bitwise --no-inst-no-entail --interpolants-mode=conjecture --multi-trigger-priority --multi-trigger-when-single --prenex-quant-user --purify-triggers --term-db-mode=relevant --no-uf-ss-fair

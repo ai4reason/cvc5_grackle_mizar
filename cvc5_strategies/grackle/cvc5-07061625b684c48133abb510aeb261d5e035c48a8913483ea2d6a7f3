@@ -1,0 +1,1 @@
+--bv-to-int-use-pow2 --cbqi-vo-exp --check-interpolants --decision=justification --difficulty-mode=model-check --fmf-bound-blast --full-saturate-quant --interpolants-mode=all --no-model-var-elim-uneval --repeat-simp --sygus-filter-sol=weak --sygus-inst-mode=interleave

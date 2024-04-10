@@ -1,0 +1,1 @@
+--decision=justification --no-inst-no-entail --interpolants-mode=shared --ite-lift-quant=none --model-cores=simple --no-quant-alpha-equiv --relevant-triggers --trigger-sel=min-s-all

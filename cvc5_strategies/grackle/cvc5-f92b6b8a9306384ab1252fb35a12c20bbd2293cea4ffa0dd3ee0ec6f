@@ -1,0 +1,1 @@
+--cegis-sample=trust --decision=justification --full-saturate-quant --no-inst-no-entail --inst-when=full-delay-last-call --interpolants-mode=all --learned-rewrite --macros-quant --miniscope-quant=conj --simplification=none --trigger-sel=min-s-all --no-uf-lazy-ll

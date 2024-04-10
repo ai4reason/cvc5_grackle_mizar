@@ -1,0 +1,1 @@
+--cegis-sample=use --check-abducts --check-synth-sol --decision=justification --full-saturate-quant --no-inst-no-entail --inst-when=full-delay --interpolants-mode=all --ite-lift-quant=none --relevant-triggers --no-uf-ss-fair

@@ -1,0 +1,1 @@
+--decision=justification --enum-inst --full-saturate-quant --inst-when=full --mbqi-one-inst-per-round --multi-trigger-priority --multi-trigger-when-single --trigger-sel=min-s-all --uf-ss=none --user-pat=use

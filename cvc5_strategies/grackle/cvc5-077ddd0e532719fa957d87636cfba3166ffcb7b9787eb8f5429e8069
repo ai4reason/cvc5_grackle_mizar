@@ -1,0 +1,1 @@
+--check-synth-sol --decision=justification --full-saturate-quant --no-inst-no-entail --inst-when=full --ite-lift-quant=none --relevant-triggers --user-pat=use

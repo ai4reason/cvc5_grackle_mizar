@@ -1,0 +1,1 @@
+--bv-to-int-use-pow2 --cbqi-vo-exp --decision=justification --difficulty-mode=model-check --fmf-bound-blast --full-saturate-quant --repeat-simp --sygus-filter-sol=weak

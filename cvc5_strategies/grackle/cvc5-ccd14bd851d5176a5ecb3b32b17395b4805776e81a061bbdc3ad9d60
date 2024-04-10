@@ -1,0 +1,1 @@
+--cegis-sample=use --decision=justification --full-saturate-quant --inst-when=full-delay-last-call --interpolants-mode=all --ite-lift-quant=all --learned-rewrite --miniscope-quant=conj --multi-trigger-priority --quant-dsplit=agg --simplification=none --trigger-sel=min-s-all --no-var-ineq-elim-quant
