@@ -6,6 +6,19 @@ which are mentioned in CICM'24 paper `Solving Hard Mizar Problems with
 Instantiation and Strategy Invention`.  The directory `casc_mode` contains the
 baseline cvc5 strategies from the CASC competition script.
 
+Paper notation
+--------------
+
+The original names of the Grackle strategies denoted grk_1, ..., grk_5 in the paper
+are as follows:
+
+  grk_1    cvc5-2ae3df
+  grk_2    cvc5-bcf96e
+  grk_3    cvc5-89fc24
+  grk_4    cvc5-41cac1
+  grk_5    cvc5-94f0df  
+  grk_6    cvc5-169baa
+
 Minimization
 ------------
 
