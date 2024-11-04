@@ -1,0 +1,1 @@
+--arith-no-partial-fun --cbqi-mode=conflict --deep-restart=input-and-prop --ext-rew-prep=agg --ext-rewrite-quant --inst-when=full --literal-matching=agg-predicate --macros-quant-mode=all --miniscope-quant=off --no-multi-trigger-linear --multi-trigger-priority --quant-dsplit=agg --simplification=none --no-static-learning --trigger-sel=all --no-uf-ho-ext
